@@ -2,7 +2,7 @@
 <b><i>I am an undergraduate from Jabalpur , Madhya Pradesh. I have interest towards Web3 and Blockchain Technology. Also I like to solve coding questions on various platforms.</i></b><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just_harsh__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh182003) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CryptoSoul_4) 
 
 # 💻 Tech Stack:
