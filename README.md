@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b><i>I am an undergraduate from Jabalpur , Madhya Pradesh. I have interest towards Web3 and Blockchain Technology. Also I like to solve coding questions on various platforms.</i></b><br>
+<b><i>I am an udergraduate from Jabalpur , Madhya Pradesh. I have interest towards Web3 and Blockchain Technology. Also I like to solve coding questions on various platforms.</i></b><br>
 
 
 # 🌐 Socials:
